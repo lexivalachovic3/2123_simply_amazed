@@ -210,10 +210,13 @@ body{
     justify-content: center;
     align-items: center;
   }
-  .lesson, .goodnews, .questions{
+  .lesson, .goodnews, .questions, .acknowledge{
     border: black solid 1px;
     background-color: #E2F0D9;
     margin-right: 5px;
+  }
+  .acknowledge img{
+    width:35%;
   }
 
 
