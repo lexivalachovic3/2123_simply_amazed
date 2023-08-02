@@ -216,8 +216,10 @@ body{
     margin-left: 5px;
   }
   .acknowledge img{
-    width:35%;
-    align-self: right;
+    width:100%;
+  }
+  .acknowledge{
+    align-content: center;
   }
 
 
